@@ -5,34 +5,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cloud003.github.io/</loc>
-<lastmod>2017-05-07T13:49:38-00:00</lastmod>
+<lastmod>2017-05-07T14:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/archives.html</loc>
-<lastmod>2017-05-07T13:49:38-00:00</lastmod>
+<lastmod>2017-05-07T14:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/tags.html</loc>
-<lastmod>2017-05-07T13:49:38-00:00</lastmod>
+<lastmod>2017-05-07T14:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/categories.html</loc>
-<lastmod>2017-05-07T13:49:38-00:00</lastmod>
+<lastmod>2017-05-07T14:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://cloud003.github.io/python随笔_20160425%28数据集每一列去除重复项%29.html</loc>
+<loc>https://cloud003.github.io/python随笔_20160425_数据集每一列去除重复项.html</loc>
 <lastmod>2017-05-06T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
