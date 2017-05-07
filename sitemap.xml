@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cloud003.github.io/</loc>
-<lastmod>2017-05-07T14:45:26-00:00</lastmod>
+<lastmod>2017-05-07T15:24:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/archives.html</loc>
-<lastmod>2017-05-07T14:45:26-00:00</lastmod>
+<lastmod>2017-05-07T15:24:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/tags.html</loc>
-<lastmod>2017-05-07T14:45:26-00:00</lastmod>
+<lastmod>2017-05-07T15:24:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>https://cloud003.github.io/categories.html</loc>
-<lastmod>2017-05-07T14:45:26-00:00</lastmod>
+<lastmod>2017-05-07T15:24:39-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://cloud003.github.io/python随笔_20170429_找出一个列表的所有元素的子集.html</loc>
+<lastmod>2017-05-07T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
@@ -40,7 +47,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cloud003.github.io/category/python.html</loc>
-<lastmod>2017-05-06T00:00:00+08:06</lastmod>
+<lastmod>2017-05-07T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.6</priority>
+</url>
+
+<url>
+<loc>https://cloud003.github.io/tag/pythonsui-bi.html</loc>
+<lastmod>2017-05-07T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
@@ -54,7 +68,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cloud003.github.io/author/zhang-ling-yun.html</loc>
-<lastmod>2017-05-06T00:00:00+08:06</lastmod>
+<lastmod>2017-05-07T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
